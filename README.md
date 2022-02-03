@@ -7,3 +7,4 @@ This repository contains projects and visualizations created from the Data Scien
 ## Statistics
 
 ## Visual Communications
+## Updated
